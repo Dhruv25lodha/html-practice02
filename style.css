@@ -1,0 +1,23 @@
+div{
+    height: 200px;
+    width: 200px;
+}
+
+#firstBox{
+    background-color: red;
+    padding: 20px;
+    border: 10px solid black;
+}
+#secondBox{
+    background-color: blue;
+    border-top: 20px solid black;
+    border-bottom: 20px solid black;
+    border-left: 10px solid black; 
+    border-right: 10px solid black;
+    margin-left: 257px; 
+}
+#thirdBox{
+    background-color: green;
+    border: 10px solid black;
+    margin-left: 40;
+}
